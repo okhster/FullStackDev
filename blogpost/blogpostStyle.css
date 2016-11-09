@@ -1,0 +1,7 @@
+#bodycontainer {
+	width: 70%;
+	border: lightgray 20px solid;
+	margin: 20px auto;
+	padding: 20px;
+	font-size: 23px;
+}
